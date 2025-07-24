@@ -34,7 +34,7 @@ The goal of this project is to derive actionable insights from historical sales 
 
 ## 📸 Dashboard Preview
 
-_Add your dashboard screenshot as `dashboard.png` here._
+https://github.com/Darshan9922/PowerBI-Superstore-Analysis/blob/main/Super%20Store%20sales_dashboard_photo.pdf
 
 ## 📂 Project Files
 
